@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoveData</string>
+    <string name="item_device">Name device</string>
+    <string name="ActivityMain_title">Các thiết bị đang kết nối</string>
+</resources>
